@@ -1,4 +1,4 @@
-const key = "" //your api key inside the double quotes
+const key = "dec601eef1fd9fc3c23456aad18b6434" //your api key inside the double quotes
 
 function onScreen(data){
     document.querySelector(".city").innerHTML = "<br>" + data.name
